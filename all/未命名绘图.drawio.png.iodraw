@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-50" target="jj-bSO7uA0q3qxnk6Cr7-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-50" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3698.13" y="-1645" width="400" height="312" as="geometry" />
         </mxCell>
@@ -377,18 +374,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" target="jj-bSO7uA0q3qxnk6Cr7-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3730" y="-1580" as="sourcePoint" />
+            <mxPoint x="-3730" y="-1590" as="sourcePoint" />
             <mxPoint x="-3710" y="-1491" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-3730" y="-1490" />
               <mxPoint x="-3710" y="-1490" />
+              <mxPoint x="-3710" y="-1489" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-50" target="jj-bSO7uA0q3qxnk6Cr7-50">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
