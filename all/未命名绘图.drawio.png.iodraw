@@ -420,11 +420,11 @@
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3365.0699999999997" y="-1524" as="targetPoint" />
-            <mxPoint x="-3364.93" y="-1550" as="sourcePoint" />
+            <mxPoint x="-3230" y="-1520" as="targetPoint" />
+            <mxPoint x="-3230" y="-1550" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-3365.0699999999997" y="-1546" />
-              <mxPoint x="-3365.0699999999997" y="-1546" />
+              <mxPoint x="-3229.97" y="-1546" />
+              <mxPoint x="-3229.97" y="-1546" />
             </Array>
           </mxGeometry>
         </mxCell>
