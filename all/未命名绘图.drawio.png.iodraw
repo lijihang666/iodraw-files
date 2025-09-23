@@ -10,7 +10,12 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-4051.25" y="-1576" as="sourcePoint" />
-            <mxPoint x="-3920" y="-1779" as="targetPoint" />
+            <mxPoint x="-3950" y="-1780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4051" y="-1575" />
+              <mxPoint x="-3949" y="-1575" />
+              <mxPoint x="-3949" y="-1780" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <UserObject label="" tags="Background" id="ygrgzpGN8mZDgHo2aoBb-1">
