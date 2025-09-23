@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="gOdp65PH5IahXZspOHq8">
-    <mxGraphModel dx="6019" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
+    <mxGraphModel dx="6634" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;多&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;教&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;师&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;型&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;训&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;练&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3970" y="-1669" width="30" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CCE5FF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673A6;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3635.64" y="-1624" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;计算每个教师&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测概率平均熵&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
@@ -346,7 +346,7 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;SVM&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CDEB8B;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3930" y="-1500.5" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-43" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CCE5FF;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-43" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673A6;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3643.74" y="-1793" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
