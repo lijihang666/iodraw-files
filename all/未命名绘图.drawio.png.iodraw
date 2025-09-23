@@ -335,7 +335,7 @@
           <mxGeometry x="-3461.87" y="-1770" width="141.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3673.06" y="-1580" width="150" height="76" as="geometry" />
+          <mxGeometry x="-3673.06" y="-1590" width="153.06" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由熵值映射生成动态温度参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3664.9399999999996" y="-1574" width="133.75" height="48" as="geometry" />
@@ -375,7 +375,8 @@
             <mxPoint x="-3730" y="-1580" as="sourcePoint" />
             <mxPoint x="-3639.1000000000004" y="-1489.9360000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3730" y="-1490" />
+              <mxPoint x="-3730" y="-1540" />
+              <mxPoint x="-3639" y="-1540" />
             </Array>
           </mxGeometry>
         </mxCell>
