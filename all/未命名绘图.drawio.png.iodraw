@@ -369,12 +369,11 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.465;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-36" target="jj-bSO7uA0q3qxnk6Cr7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.07;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.07;entryY=0.561;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3760.25" y="-1579" as="sourcePoint" />
+            <mxPoint x="-3730" y="-1578" as="sourcePoint" />
             <mxPoint x="-3671.13" y="-1469.968" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3760" y="-1578" />
               <mxPoint x="-3730" y="-1578" />
               <mxPoint x="-3730" y="-1470" />
             </Array>
