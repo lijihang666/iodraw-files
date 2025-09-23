@@ -435,17 +435,16 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;动态温度调节与软标签生成&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3640" y="-1380" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-85" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="-3220" y="-1668" width="150" height="76" as="geometry" />
-        </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-73" target="jj-bSO7uA0q3qxnk6Cr7-85">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=71.5;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;entryPerimeter=0;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-73" target="jj-bSO7uA0q3qxnk6Cr7-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3220" y="-1629.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;学生模型训练&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3033.7499999999995" y="-1456" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-90" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="-1713" width="100" height="163" as="geometry" />
+          <mxGeometry x="-3210" y="-1713" width="100" height="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
