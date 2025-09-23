@@ -337,7 +337,7 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;计算每个教师&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测概率平均熵&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;作为指标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3461.87" y="-1770" width="141.87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-3670.06" y="-1589" width="153.06" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由熵值映射生成动态温度参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
@@ -391,11 +391,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-60" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-60" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-3673.06" y="-1472" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;对概率进行&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3673.0599999999995" y="-1464.5" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3664.9399999999996" y="-1458" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成个性化&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3468.8199999999997" y="-1574" width="133.75" height="48" as="geometry" />
