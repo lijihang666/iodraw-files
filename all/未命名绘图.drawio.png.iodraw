@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-72" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3443.88" y="-1588" width="150" height="76" as="geometry" />
+          <mxGeometry x="-3476.94" y="-1588" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-40" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3700" y="-1825" width="420" height="140" as="geometry" />
@@ -335,10 +335,10 @@
           <mxGeometry x="-3461.87" y="-1770" width="141.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3640" y="-1592" width="150" height="76" as="geometry" />
+          <mxGeometry x="-3673.06" y="-1592" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由熵值映射生成动态温度参数&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3631.8799999999997" y="-1583" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3664.9399999999996" y="-1583" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-38" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;XGBoost&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CDEB8B;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3930" y="-1640" width="150" height="90" as="geometry" />
@@ -381,32 +381,32 @@
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-60">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3443.88" y="-1550" as="targetPoint" />
+            <mxPoint x="-3476.94" y="-1550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-3473.88" y="-1449" />
-              <mxPoint x="-3473.88" y="-1550" />
+              <mxPoint x="-3506.94" y="-1449" />
+              <mxPoint x="-3506.94" y="-1550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-60" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3640" y="-1472" width="150" height="76" as="geometry" />
+          <mxGeometry x="-3673.06" y="-1472" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;对概率进行&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3639.9999999999995" y="-1464.5" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3673.0599999999995" y="-1464.5" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成个性化&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3435.7599999999998" y="-1574" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3468.8199999999997" y="-1574" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-73" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#6c8ebf;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3443.88" y="-1472" width="150" height="76" as="geometry" />
+          <mxGeometry x="-3476.94" y="-1472" width="150" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3573.88" y="-1475" as="targetPoint" />
-            <mxPoint x="-3573.88" y="-1514" as="sourcePoint" />
+            <mxPoint x="-3606.94" y="-1475" as="targetPoint" />
+            <mxPoint x="-3606.94" y="-1514" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-3573.88" y="-1497" />
-              <mxPoint x="-3573.88" y="-1497" />
+              <mxPoint x="-3606.94" y="-1497" />
+              <mxPoint x="-3606.94" y="-1497" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -414,15 +414,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-76" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;多教师软标签&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;融合&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3435.7599999999998" y="-1456" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3468.8199999999997" y="-1456" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3378.88" y="-1479" as="targetPoint" />
-            <mxPoint x="-3378.88" y="-1509" as="sourcePoint" />
+            <mxPoint x="-3411.94" y="-1479" as="targetPoint" />
+            <mxPoint x="-3411.94" y="-1509" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-3378.85" y="-1505" />
-              <mxPoint x="-3378.85" y="-1505" />
+              <mxPoint x="-3411.91" y="-1505" />
+              <mxPoint x="-3411.91" y="-1505" />
             </Array>
           </mxGeometry>
         </mxCell>
