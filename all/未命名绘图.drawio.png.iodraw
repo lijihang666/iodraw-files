@@ -5,10 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-40" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3670" y="-1824" width="260" height="304" as="geometry" />
-        </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-36" target="jj-bSO7uA0q3qxnk6Cr7-40">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-3635.64" y="-1475" width="260" height="304" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-36" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3978" y="-1824" width="218.75" height="490" as="geometry" />
