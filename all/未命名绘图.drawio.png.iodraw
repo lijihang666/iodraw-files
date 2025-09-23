@@ -335,7 +335,7 @@
           <mxGeometry x="-3915" y="-1685" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;计算每个教师&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测概率平均熵&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;作为指标&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3903.75" y="-1660" width="133.75" height="48" as="geometry" />
+          <mxGeometry x="-3903.75" y="-1660" width="133.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3911.87" y="-1555" width="150" height="90" as="geometry" />
