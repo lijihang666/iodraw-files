@@ -445,7 +445,7 @@
           <mxGeometry x="-3211.8799999999997" y="-1652.5" width="133.75" height="48" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-90" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3420" y="-1730" width="120" height="80" as="geometry" />
+          <mxGeometry x="-3190" y="-1709" width="100" height="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
