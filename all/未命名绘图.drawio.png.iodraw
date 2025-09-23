@@ -443,7 +443,7 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;学生模型训练&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3033.7499999999995" y="-1456" width="133.75" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-90" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=default;strokeColor=#F8CECC;shadow=1;" vertex="1" parent="1">
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-90" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FFFFFF;strokeColor=#F8CECC;shadow=1;gradientColor=#F8CECC;" vertex="1" parent="1">
           <mxGeometry x="-3210" y="-1713" width="100" height="163" as="geometry" />
         </mxCell>
       </root>
