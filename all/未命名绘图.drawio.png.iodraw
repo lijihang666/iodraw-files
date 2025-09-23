@@ -390,6 +390,12 @@
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;对概率进行&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3627.9999999999995" y="-1513" width="133.75" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3553.9444444444443" y="-1630" as="targetPoint" />
+            <mxPoint x="-3554" y="-1675" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
