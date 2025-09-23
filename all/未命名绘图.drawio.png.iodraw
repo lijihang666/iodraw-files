@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-40" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3635.64" y="-1475" width="260" height="304" as="geometry" />
+          <mxGeometry x="-3679.25" y="-1876" width="399.25" height="304" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-36" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3978" y="-1824" width="218.75" height="490" as="geometry" />
@@ -326,10 +326,10 @@
           <mxGeometry x="-3970" y="-1669" width="30" height="156" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673A6;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3635.64" y="-1624" width="150" height="90" as="geometry" />
+          <mxGeometry x="-3470" y="-1805" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;计算每个教师&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测概率平均熵&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3627.5099999999998" y="-1604" width="133.75" height="50" as="geometry" />
+          <mxGeometry x="-3461.87" y="-1785" width="133.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-32" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673A6;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="-3070" y="-1610" width="150" height="90" as="geometry" />
@@ -344,13 +344,13 @@
           <mxGeometry x="-3930" y="-1500.5" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-43" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673A6;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="-3635.6099999999997" y="-1778.5" width="150" height="90" as="geometry" />
+          <mxGeometry x="-3669.9999999999995" y="-1805" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-44" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;对样本预测&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-3759.25" y="-1610" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;得到每个样本&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;预测概率向量&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3627.4799999999996" y="-1750" width="133.75" height="50" as="geometry" />
+          <mxGeometry x="-3661.8699999999994" y="-1776.5" width="133.75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="jj-bSO7uA0q3qxnk6Cr7-40" target="jj-bSO7uA0q3qxnk6Cr7-40">
           <mxGeometry relative="1" as="geometry" />
