@@ -404,12 +404,9 @@
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-3561.86" y="-1523" as="targetPoint" />
-            <mxPoint x="-3562" y="-1550" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-3561.5600000000004" y="-1550" />
-              <mxPoint x="-3561.5600000000004" y="-1550" />
-            </Array>
+            <mxPoint x="-3566.11" y="-1514" as="targetPoint" />
+            <mxPoint x="-3566" y="-1550" as="sourcePoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-67" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成个性化&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
