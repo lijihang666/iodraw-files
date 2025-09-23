@@ -427,7 +427,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-78" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;dashed=1;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-3700" y="-1604.5" width="410" height="264.5" as="geometry" />
+          <mxGeometry x="-3700" y="-1604.5" width="420" height="264.5" as="geometry" />
         </mxCell>
         <mxCell id="jj-bSO7uA0q3qxnk6Cr7-79" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;动态温度调节与软标签生成&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="-3640" y="-1380" width="250" height="30" as="geometry" />
