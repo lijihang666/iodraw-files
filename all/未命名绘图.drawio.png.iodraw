@@ -264,6 +264,9 @@
             <mxGeometry x="-3163" y="-1452" width="21" height="96" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="jj-bSO7uA0q3qxnk6Cr7-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="-2640" y="-1020" width="60" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
