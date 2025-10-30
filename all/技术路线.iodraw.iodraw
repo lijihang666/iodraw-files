@@ -70,7 +70,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-55" value="设计可视化原型系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;gradientColor=#F8CECC;" vertex="1" parent="1">
-          <mxGeometry x="186" y="545" width="164" height="25" as="geometry" />
+          <mxGeometry x="185" y="545" width="164" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.524;entryY=0.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-52" target="6j5QtA6X4OrTeyyR5MZ2-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
