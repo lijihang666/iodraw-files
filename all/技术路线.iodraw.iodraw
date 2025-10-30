@@ -70,7 +70,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-55" value="设计可视化原型系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="570" width="170" height="40" as="geometry" />
+          <mxGeometry x="186" y="545" width="164" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
