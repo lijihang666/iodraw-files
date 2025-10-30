@@ -16,8 +16,8 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-22" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="225" width="60" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="440" y="210" width="90" height="30" as="geometry" />
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-25" value="基于CGAN高质量样本生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-26" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="220" width="61" height="10" as="geometry" />
