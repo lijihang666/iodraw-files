@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="215" width="179" height="125" as="geometry" />
+          <mxGeometry x="246.5" y="230" width="179" height="125" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-1" target="6j5QtA6X4OrTeyyR5MZ2-13">
           <mxGeometry relative="1" as="geometry" />
@@ -22,7 +22,7 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-25" value="基于CGAN高质量样本生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;生成式采样&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-27" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;生成式采样&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="290" y="250" width="74.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;轻量化集成分类&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
