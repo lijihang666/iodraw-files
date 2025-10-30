@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-1" value="不平衡医学数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
