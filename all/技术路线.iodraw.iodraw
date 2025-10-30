@@ -36,6 +36,9 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;轻量化集成分类&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="326" width="110" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
