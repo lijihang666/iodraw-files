@@ -10,11 +10,11 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-1" value="不平衡医学数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理 与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#F5F5F5;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="270" y="197.5" width="20" height="195" as="geometry" />
+          <mxGeometry x="248" y="197.5" width="20" height="195" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-13" target="6j5QtA6X4OrTeyyR5MZ2-15">
           <mxGeometry relative="1" as="geometry" />
