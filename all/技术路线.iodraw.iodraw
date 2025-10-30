@@ -22,8 +22,8 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-26" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
           <mxGeometry x="289" y="220" width="61" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="180" width="60" height="30" as="geometry" />
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-27" value="模块一：生成式采样" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="180" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
