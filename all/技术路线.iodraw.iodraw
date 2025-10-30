@@ -51,7 +51,7 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-31" value="平衡化训练&lt;div&gt;数据集&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="271" y="327" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-32" value="构建异构多教师委员会" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97A8FC;strokeColor=#10739e;gradientColor=default;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-32" value="构建异构多教师委员会" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97A8FC;strokeColor=#10739e;gradientColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="206" y="410" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.494;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-25" target="6j5QtA6X4OrTeyyR5MZ2-31">
@@ -60,7 +60,7 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-51" target="6j5QtA6X4OrTeyyR5MZ2-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-51" value="熵感知动态温度&lt;div&gt;知识蒸馏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-51" value="熵感知动态温度&lt;div&gt;知识蒸馏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;gradientColor=default;" vertex="1" parent="1">
           <mxGeometry x="206" y="450" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-52" value="轻量级学生模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
