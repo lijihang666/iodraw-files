@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;gradientColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="80" height="90" as="geometry" />
+          <mxGeometry x="160" y="250" width="70" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-25" value="基于CGAN高质量样本生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="270" y="280" width="130" height="30" as="geometry" />
