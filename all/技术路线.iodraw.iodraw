@@ -22,10 +22,13 @@
           <mxGeometry x="255" y="215" width="10" height="160" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-20" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="80" height="10" as="geometry" />
+          <mxGeometry x="260" y="210" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-21" value="" style="line;strokeWidth=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="369" width="160" height="10" as="geometry" />
+          <mxGeometry x="260" y="369" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
