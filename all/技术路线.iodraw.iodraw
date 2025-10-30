@@ -7,10 +7,10 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-1" target="6j5QtA6X4OrTeyyR5MZ2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-1" value="不平衡医学数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97A8FC;strokeColor=#6c8ebf;gradientColor=#DB78FF;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-1" value="不平衡医学数据" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="280" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="80" height="90" as="geometry" />
         </mxCell>
       </root>
