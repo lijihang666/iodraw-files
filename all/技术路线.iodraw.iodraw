@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="375" width="250" height="120" as="geometry" />
+          <mxGeometry x="160" y="375" width="250" height="145" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="150" height="130" as="geometry" />
@@ -56,6 +56,9 @@
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.494;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-25" target="6j5QtA6X4OrTeyyR5MZ2-31">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-51" value="构建异构多教师委员会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="450" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
