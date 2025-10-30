@@ -17,7 +17,7 @@
           <mxGeometry x="150" y="250" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-25" value="基于CGAN高质量样本生成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="286" y="229" width="130" height="30" as="geometry" />
+          <mxGeometry x="284" y="229" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-27" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;生成式采样&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="191" y="180" width="74.5" height="10" as="geometry" />
@@ -29,15 +29,12 @@
           <mxGeometry x="191" y="373" width="110" height="10" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-31" value="增强后的数据集" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;gradientColor=#F5F5F5;" vertex="1" parent="1">
-          <mxGeometry x="287" y="276" width="130" height="30" as="geometry" />
+          <mxGeometry x="285" y="276" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="287" y="323" width="130" height="30" as="geometry" />
+          <mxGeometry x="285" y="323" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.494;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-25" target="6j5QtA6X4OrTeyyR5MZ2-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.501;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-31" target="6j5QtA6X4OrTeyyR5MZ2-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
