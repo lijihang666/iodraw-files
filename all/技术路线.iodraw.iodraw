@@ -13,6 +13,9 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-13" value="数据预处理 与特征工程" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="150" y="250" width="80" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="235" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
