@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="X0pUt3TYvY53GjK8sxPO">
-    <mxGraphModel dx="574" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-43" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="375" width="250" height="165" as="geometry" />
+          <mxGeometry x="160" y="375" width="250" height="155" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="150" height="130" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-51" value="熵感知动态温度&lt;div&gt;知识蒸馏&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97A8FC;strokeColor=#56517e;gradientColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="206" y="450" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-52" value="轻量级学生模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;gradientColor=#F5F5F5;" vertex="1" parent="1">
+        <mxCell id="6j5QtA6X4OrTeyyR5MZ2-52" value="轻量级学生模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#97A8FC;strokeColor=#56517e;gradientColor=#F5F5F5;" vertex="1" parent="1">
           <mxGeometry x="206" y="490" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6j5QtA6X4OrTeyyR5MZ2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.499;entryY=0.056;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6j5QtA6X4OrTeyyR5MZ2-32" target="6j5QtA6X4OrTeyyR5MZ2-51">
