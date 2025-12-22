@@ -46,6 +46,9 @@
         <mxCell id="BJ4he7pZj3HNmmZwPJvX-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;分类预测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="208.02" y="420" width="146.98" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="_9PieYdUYy1iElcnD3kp-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
