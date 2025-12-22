@@ -10,6 +10,9 @@
         <mxCell id="BJ4he7pZj3HNmmZwPJvX-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="237.26" y="57.5" width="88.49" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="BJ4he7pZj3HNmmZwPJvX-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="223.02" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
