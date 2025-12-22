@@ -7,7 +7,7 @@
         <mxCell id="_9PieYdUYy1iElcnD3kp-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_9PieYdUYy1iElcnD3kp-1" target="BJ4he7pZj3HNmmZwPJvX-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_9PieYdUYy1iElcnD3kp-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="_9PieYdUYy1iElcnD3kp-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="247.26" y="61.25" width="68.49" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="BJ4he7pZj3HNmmZwPJvX-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
