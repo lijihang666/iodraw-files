@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BJ4he7pZj3HNmmZwPJvX-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ4he7pZj3HNmmZwPJvX-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ4he7pZj3HNmmZwPJvX-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.delay;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="230" y="180" width="100" height="60" as="geometry" />
+        <mxCell id="BJ4he7pZj3HNmmZwPJvX-7" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
