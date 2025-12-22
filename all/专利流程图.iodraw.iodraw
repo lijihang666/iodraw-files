@@ -5,12 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_9PieYdUYy1iElcnD3kp-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="241.51" y="50" width="80" height="42.5" as="geometry" />
-        </mxCell>
-        <mxCell id="BJ4he7pZj3HNmmZwPJvX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="BJ4he7pZj3HNmmZwPJvX-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="281.5049999999999" y="97.5" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="247.26" y="61.25" width="68.49" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="BJ4he7pZj3HNmmZwPJvX-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="255.14000000000001" y="68.75" width="52.73" height="17.5" as="geometry" />
