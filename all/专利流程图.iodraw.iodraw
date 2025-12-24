@@ -8,9 +8,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_9PieYdUYy1iElcnD3kp-1" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="273.9" y="50" width="100.23" height="43.75" as="geometry" />
+          <mxGeometry x="273.9" y="50" width="86.1" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="BJ4he7pZj3HNmmZwPJvX-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 18px;&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="BJ4he7pZj3HNmmZwPJvX-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="297.65" y="63.13" width="52.73" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="BJ4he7pZj3HNmmZwPJvX-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="BJ4he7pZj3HNmmZwPJvX-11" target="BJ4he7pZj3HNmmZwPJvX-13" edge="1">
