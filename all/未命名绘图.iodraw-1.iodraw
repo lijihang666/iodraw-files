@@ -91,13 +91,8 @@
         <mxCell id="zB8SoKhs7d02yTPqwyKu-67" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;strokeColor=#0c0d0d;shadow=1;gradientColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="-2970" y="-2670" width="80" height="282" as="geometry" />
         </mxCell>
-        <mxCell id="zB8SoKhs7d02yTPqwyKu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;strokeWidth=2;strokeColor=#0c0d0d;" parent="1" source="zB8SoKhs7d02yTPqwyKu-69" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-2820" y="-2486.75" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zB8SoKhs7d02yTPqwyKu-69" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;学&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;型&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;训&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;练&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;strokeColor=#0c0d0d;" parent="1" vertex="1">
-          <mxGeometry x="-2950" y="-2562" width="50" height="151" as="geometry" />
+        <mxCell id="zB8SoKhs7d02yTPqwyKu-69" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;学&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;模&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;型&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;训&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;练&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2944" y="-2581" width="50" height="151" as="geometry" />
         </mxCell>
         <mxCell id="zB8SoKhs7d02yTPqwyKu-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=none;glass=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=#0c0d0d;" parent="1" vertex="1">
           <mxGeometry x="-2820" y="-2528" width="146.25" height="83" as="geometry" />
