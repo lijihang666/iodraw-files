@@ -182,6 +182,11 @@
             <mxPoint x="-3440" y="-2565.304347826087" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="L7pXELyfQ9bnV_dJuKLL-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="L7pXELyfQ9bnV_dJuKLL-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3440" y="-2425.304347826087" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;计算样本级&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;不确定性/难度&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;u(x)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#FFE599;strokeWidth=3;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="-3650" y="-2635" width="150" height="280" as="geometry" />
         </mxCell>
@@ -189,13 +194,13 @@
           <mxGeometry x="-3436" y="-2609" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;u(x)映射生成&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;样本级蒸馏强度&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;λ&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;i&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#FFE599;strokeWidth=3;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="-3430" y="-2458" width="150" height="90" as="geometry" />
+          <mxGeometry x="-3436" y="-2458" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3436" y="-2614.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-55" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D2&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-3430" y="-2465" width="30" height="30" as="geometry" />
+          <mxGeometry x="-3436" y="-2465" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
