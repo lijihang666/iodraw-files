@@ -127,16 +127,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-51" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;u(x)映射生成&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;样本级温度T&lt;/font&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;i&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673a6;strokeWidth=3;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-3589.63" y="-2432" width="176" height="90" as="geometry" />
+          <mxGeometry x="-3602.63" y="-2432" width="176" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;u(x)映射生成&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;样本级蒸馏强度&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;λ&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;i&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;（可选）&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#9673a6;strokeWidth=3;fillStyle=auto;" parent="1" vertex="1">
-          <mxGeometry x="-3590.63" y="-2281" width="177" height="90" as="geometry" />
+          <mxGeometry x="-3603.63" y="-2281" width="177" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3589.63" y="-2437.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="-3602.63" y="-2437.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-55" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D2&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-3590.63" y="-2288" width="30" height="30" as="geometry" />
+          <mxGeometry x="-3603.63" y="-2288" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
