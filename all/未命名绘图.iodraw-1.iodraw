@@ -164,7 +164,7 @@
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="L7pXELyfQ9bnV_dJuKLL-61" target="L7pXELyfQ9bnV_dJuKLL-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L7pXELyfQ9bnV_dJuKLL-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#b1ddf0;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#10739e;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="L7pXELyfQ9bnV_dJuKLL-61" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#666666;strokeWidth=3;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="-3210" y="-2602" width="150" height="76" as="geometry" />
         </mxCell>
       </root>
