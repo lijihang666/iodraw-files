@@ -193,6 +193,9 @@
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-39" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;仅CailbKD系列启用&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3841" y="-2495" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L7pXELyfQ9bnV_dJuKLL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.14;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="L7pXELyfQ9bnV_dJuKLL-32" target="L7pXELyfQ9bnV_dJuKLL-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
