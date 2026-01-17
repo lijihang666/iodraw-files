@@ -180,7 +180,7 @@
           <mxGeometry x="-4082.91" y="-2149" width="225" height="29" as="geometry" />
         </mxCell>
         <mxCell id="5O2jG2jp8lBPREXhhkDQ-16" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;u&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathnormal&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;):&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;熵、置信边际、集成方差等&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-3780" y="-2451" width="120" height="40" as="geometry" />
+          <mxGeometry x="-3780" y="-2231" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
