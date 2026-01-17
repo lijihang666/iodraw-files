@@ -136,6 +136,11 @@
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-55" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D2&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3437" y="-2465" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="L7pXELyfQ9bnV_dJuKLL-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="L7pXELyfQ9bnV_dJuKLL-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-3134.793103448276" y="-2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;多教师软标签&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;融合&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CCFF99;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-3210" y="-2477" width="150" height="76" as="geometry" />
         </mxCell>
