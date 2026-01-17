@@ -194,7 +194,7 @@
           <mxGeometry x="-3436" y="-2609" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-52" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;由&lt;/b&gt;&lt;/span&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;u(x)映射生成&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;样本级蒸馏强度&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 18px;&quot;&gt;λ&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;i&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#FFE599;strokeWidth=3;gradientColor=none;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="-3437" y="-2458" width="150" height="90" as="geometry" />
+          <mxGeometry x="-3437" y="-2458" width="177" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-54" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;D1&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-3436" y="-2614.5" width="30" height="30" as="geometry" />
