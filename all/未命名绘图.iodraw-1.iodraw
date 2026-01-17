@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zB8SoKhs7d02yTPqwyKu-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自适应蒸馏控制与软标签生成（T与&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;λ&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;）可选&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="zB8SoKhs7d02yTPqwyKu-65" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;自适应蒸馏控制与软标签生成（T与&lt;/b&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;λ&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;）&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="-3490" y="-2308" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zB8SoKhs7d02yTPqwyKu-67" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;strokeColor=#0c0d0d;shadow=1;gradientColor=#DAE8FC;" parent="1" vertex="1">
