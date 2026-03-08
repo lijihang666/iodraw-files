@@ -112,7 +112,7 @@
           <mxGeometry x="-3609.63" y="-2437.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-60" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;温度缩放&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;生成软标签&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=none;sketch=1;curveFitting=1;jiggle=2;shadow=1;strokeColor=#CCFF99;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-3407.63" y="-2359.5" width="147.63" height="86.75" as="geometry" />
+          <mxGeometry x="-3416.63" y="-2359.5" width="147.63" height="86.75" as="geometry" />
         </mxCell>
         <mxCell id="L7pXELyfQ9bnV_dJuKLL-80" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;软硬标签融合&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;代价敏感权重&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-3169.13" y="-2368.12" width="110" height="84.25" as="geometry" />
@@ -125,6 +125,9 @@
         </mxCell>
         <mxCell id="5O2jG2jp8lBPREXhhkDQ-16" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot; class=&quot;katex&quot;&gt;&lt;span style=&quot;&quot; class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span style=&quot;&quot; class=&quot;base&quot;&gt;&lt;span style=&quot;&quot; class=&quot;mord mathnormal&quot;&gt;u&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;mord mathnormal&quot;&gt;x&lt;/span&gt;&lt;span style=&quot;&quot; class=&quot;mclose&quot;&gt;):&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;熵、置信边际&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;集成方差等&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-3755.26" y="-2221" width="103.63" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OZwBTAO7SGshLmyZEKoi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.692;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="L7pXELyfQ9bnV_dJuKLL-51" target="js_tN0HUN9f6mKP8CsVW-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
